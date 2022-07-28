@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
      VideoCapture cap;
-     cap.open("006.insv"); 
+     cap.open("12.mp4"); 
  
      if(!cap.isOpened())
          return -1;
